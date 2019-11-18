@@ -1,4 +1,8 @@
 test
 
+<<<<<<< HEAD
 
 Add locally
+=======
+Add from GitHub!
+>>>>>>> e0352a16778f35abe06d89f1e2f324cf643304a9
